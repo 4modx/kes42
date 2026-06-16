@@ -1,0 +1,19 @@
+{
+  "name": "КЭС — КомплексЭлектроСтрой",
+  "short_name": "КЭС",
+  "description": "Электромонтаж и инженерные системы в Кемерово.",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101722",
+  "theme_color": "#101722",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
